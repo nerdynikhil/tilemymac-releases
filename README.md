@@ -12,7 +12,7 @@ This repository only holds release builds and notes. The app's source code is no
 
 1. Quit TileMyMac if it's running.
 2. Open the downloaded DMG and drag TileMyMac to Applications. Choose **Replace** if asked.
-3. TileMyMac isn't notarized by Apple yet. If macOS warns you the first time you open it, go to **System Settings › Privacy & Security** and click **Open Anyway**.
+3. TileMyMac is going through Apple's notarization and will be notarized very soon. Until then, if macOS warns you the first time you open it, go to **System Settings › Privacy & Security** and click **Open Anyway**.
 
 Your license stays activated when you update.
 
