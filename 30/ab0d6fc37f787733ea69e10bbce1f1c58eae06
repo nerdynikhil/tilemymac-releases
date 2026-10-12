@@ -1,0 +1,19 @@
+README.md
+  s_1f606ce8ae17b5::t_59545fafc90406 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30ab0d6fc37f787733ea69e10bbce1f1c58eae06",
+  "prompts": {},
+  "sessions": {
+    "s_1f606ce8ae17b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f3e35ac7-f62f-4c52-a9ac-e308a144268c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nikhil Barik <nklmarch17@gmail.com>"
+    }
+  }
+}
